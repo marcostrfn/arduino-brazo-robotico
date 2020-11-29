@@ -1,0 +1,20 @@
+ Característica
+ 
+1. Con placa acrílica personalizada de 3mm de grosor y endurecimiento.
+2. Aplicado a nuestra gama completa de coches arduino.
+3. Con 2 modelos de control-control PS2, control remoto inalámbrico.
+4. Programable seguido por el coche inteligente.
+5. Gran función de motor.
+6. Puede escalar todo tipo de pendientes empinados.
+7. Compatible con Arduino IDE y soporte para programación gráfica de arañazos
+ 
+Y programación mixta.
+ 
+Instrucción de enlace:
+ 
+Https:/github.com/keywish/RoboticArm
+ 
+Enlace de vídeo de instalación:
+ 
+Https:/www.youtube.com/watch?v=QBoRsET8BtY
+
